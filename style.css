@@ -31,7 +31,8 @@ nav > ul {
 }
 
 .header {
-    background-color: lightgrey;
+    background-color: linear-gradient(to right, rgb(58, 101, 173), rgb(162, 201, 243));
+    /* background-color: lightgrey; */
     /* padding: 10px; 
     margin: auto; 
     width: 100%;  
